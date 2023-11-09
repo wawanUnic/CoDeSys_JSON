@@ -8,3 +8,5 @@
 А вот обратно не разворачивает данные bool, array и array_of_struct. Ну или я просто чего-то не понимаю. :)
 
 Важно: имена структуры для fbStruct_to_json (сериализация) и структуры для fbJson_to_struct (десериализация) должны быть одинаковыми.
+
+Подробнее тут: https://forge.codesys.com/lib/pro-json/home/Home/
